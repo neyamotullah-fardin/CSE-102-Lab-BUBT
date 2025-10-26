@@ -23,7 +23,7 @@ Bangladesh University of Business and Technology (BUBT)
 ## 📂 Repository Structure
 📁 CSE-Lab-Reports/
 │
-├── 📜 README.md
 ├── 📜 CSE 102 Lab Report 1 (If-Else).pdf
 ├── 📜 CSE 102 Lab Report 2 (Array).pdf
+├── 📜 README.md
 └── ...
